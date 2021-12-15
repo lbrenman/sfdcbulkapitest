@@ -7,3 +7,19 @@
 	* e.g. `username=xxxx password=yyyyzzzz npm start`
 	* Password is your password concatenated with your security token
 * Trigger the process by calling the `/api/fileupload` API (e.g. `GET http://localhost:8080/api/fileupload`)
+
+## Screen Shots
+
+![](https://i.imgur.com/odSkRXN.png)
+
+![](https://i.imgur.com/AS3imuE.png)
+
+![](https://i.imgur.com/q2ED7q6.png)
+
+![](https://i.imgur.com/c0TiM1m.png)
+
+![](https://i.imgur.com/qubIZiF.png)
+
+![](https://i.imgur.com/7QItNSa.png)
+
+![](https://i.imgur.com/m7U6Keq.png)
